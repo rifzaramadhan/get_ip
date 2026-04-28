@@ -105,6 +105,7 @@
             Method: <span><?= htmlspecialchars($method) ?></span><br>
             Time: <span><?= htmlspecialchars($timestamp) ?></span><br>
             User-Agent: <span><?= htmlspecialchars($userAgent) ?></span>
+        
         </div>
     </div>
 </body>
